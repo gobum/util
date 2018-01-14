@@ -10,4 +10,10 @@ module.exports = {
   isRegExp, test, scan,
   //class.js
   Class,
+  //path.js
+  pathed, pathof,
+  //string.js
+  format, indent,
+  //error.js
+  Error, EvalError, RangeError, ReferenceError, SyntaxError, TypeError, URIError
 };
