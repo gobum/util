@@ -4,6 +4,10 @@
  * sys.js
  */
 
+/* Environment：--------------------------------------------------------------------------------- */
+const ENV_NODE  = typeof global === "object" && global.toString() === "[object global]";
+const ENV_AGENT = typeof window === "object" && window.toString() === "[object Window]";
+
 /* Object：-------------------------------------------------------------------------------------- */
 
 /**

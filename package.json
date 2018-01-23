@@ -1,6 +1,6 @@
 {
   "name": "@gobum/util",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "Gobum Utilities Libaray",
   "main": "exports.js",
   "scripts": {
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/gobum/util#readme",
   "devDependencies": {
-    "ihope": "^0.1.11"
+    "ihope": "^0.1.14"
   }
 }
